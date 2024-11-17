@@ -1,2 +1,2 @@
 # BRAFPred
-The code of the BRAFPred model will be upload later.
+The code and dataset of the BRAFPred model will be upload later.
